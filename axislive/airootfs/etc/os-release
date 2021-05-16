@@ -1,0 +1,10 @@
+NAME="Axis Linux"
+PRETTY_NAME="Axis Linux"
+ID=axis
+BUILD_ID=rolling
+ANSI_COLOR="0;31"
+HOME_URL="http://xxcore.pl/"
+DOCUMENTATION_URL="http://xxcore.pl/"
+SUPPORT_URL="https://github.com/axislinux/axislinux"
+BUG_REPORT_URL="https://github.com/axislinux/axislinux"
+LOGO=axislinux

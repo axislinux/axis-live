@@ -1,0 +1,5 @@
+To install [0;31mAxis Linux[0m follow the Arch Linux's wiki. The installation steps are exactly the same.
+
+For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
+For mobile broadband (WWAN) modems, connect with the [35mmmcli[0m utility.
+Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
