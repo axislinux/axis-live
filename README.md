@@ -1,5 +1,5 @@
 # axis-live
-![Axis Linux](https://user-images.githubusercontent.com/61242573/118399404-43c30480-b65d-11eb-9c81-82fccb9cf14e.png)
+<p align="center"><img alt="Axis Linux" src="https://user-images.githubusercontent.com/61242573/118399404-43c30480-b65d-11eb-9c81-82fccb9cf14e.png"/></p>
 
 <h3 align="center">Build files for Axis Linux</h3>
 
