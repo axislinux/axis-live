@@ -3,6 +3,8 @@
 
 <h3 align="center">Build files for Axis Linux</h3>
 
+<h4 align="center">This is where you can find <a href="https://github.com/axislinux/axis-live/releases">releases</a> of Axis Linux</h4>
+
 <p align="center"><img alt="powered-by-electricity" src="https://forthebadge.com/images/badges/powered-by-electricity.svg"/></p>
 
 <p align="center">
