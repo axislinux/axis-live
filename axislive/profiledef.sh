@@ -3,7 +3,7 @@
 
 iso_name="axislinux"
 iso_label="AXIS_$(date +%Y%m)"
-iso_publisher="Axis Linux <https://xxcore.pl>"
+iso_publisher="Axis Linux <https://github.com/axislinux>"
 iso_application="Axis Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="axis"

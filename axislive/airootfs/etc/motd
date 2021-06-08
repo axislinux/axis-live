@@ -1,4 +1,6 @@
-To install [0;31mAxis Linux[0m follow the Arch Linux's wiki. The installation steps are exactly the same.
+To install [0;31mAxis Linux[0m follow Arch Linux's wiki.
+
+You can also use the new installation script, by typing [35maxislinux-installer[0m.
 
 For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
 For mobile broadband (WWAN) modems, connect with the [35mmmcli[0m utility.
