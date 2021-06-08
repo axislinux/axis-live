@@ -1,2 +1,3 @@
-# Ignore git.sh script
+# Ignore git.sh and tag.sh scripts
 git.sh
+tag.sh
